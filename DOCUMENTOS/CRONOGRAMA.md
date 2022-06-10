@@ -37,7 +37,7 @@ Entrega prevista de umm MPV contendo:
 
 
 
-## Cronograma Ciclo 2 - 15/08 até 19/09
+## Cronograma Ciclo 2 - 15/08 até 19/09 (6 semanas)
 
 Entrega prevista do sistema com melhorias:
 - Plotagem das leituras (atuais e histórico) em interface web melhorada;
@@ -46,7 +46,7 @@ Entrega prevista do sistema com melhorias:
 
 ### Cronograma Resumido 
 
-| Etapa | **15/08 (1)** | **22/08 (2)** | **29/08 (3)** | **05/09 (4)** | **12/09 (5)** | **19/09 (6)** | 
+| Etapa | **15/08 (11)** | **22/08 (12)** | **29/08 (13)** | **05/09 (14)** | **12/09 (15)** | **19/09 (16)** | 
 |:---------------------------------------------:|:--:|:-:|:-:|:-:|:-:|:-:|
 |**Melhorias no dashboard e contemplação de histórico**    | X | X | X | X |   |    |     
 |**Definição de alertas e criticidades**                   |   | X |   |   |   |    |  
