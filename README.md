@@ -1,9 +1,9 @@
-## Cronograma Ciclo 1 - 13/06 até 01/08
+## Cronograma Ciclo 1 - 13/06 até 08/08
 
 Entrega prevista:
 - Arduino integrado aos 3 sensores (Temperatura, Umidade do ar e Nível de CO²;
 - Ciclo de transmissão (Endpoint-Servidor) operando;
-- Plotagem das leituras (atuais). 
+- Plotagem simples das leituras (atuais). 
 
 ### Cronograma Resumido 
 
@@ -19,13 +19,13 @@ Entrega prevista:
 ### Cronograma Detalhado
 | Etapa| **13/06 (1)** | **20/06 (2)** | **27/06 (3)** | **14/06 (4)** | **04/07 (5)**| **11/07 (6)** | **18/07 (7)** | **25/07 (8)** | **01/08 (9)** | **08/08 (9)** |
 |:--------------------------------------------------:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|**Concepção da ideia e estudo de material prévio **        | X | X |   |   |   |   |    |    |    | 
-|**Definição dos requisitos funcionais e não funcionais **  |   | X |   |   |   |   |    |    |    | 
-|**Detalhamento - Especificações**                          |   | X | X |   |   |   |    |    |    |
-|**Detalhamento - Arquitetura do Hardware **                |   |   | X |   |   |   |    |    |    |
-|**Detalhamento - Diagrama de classes**                     |   |   |   | X |   |   |    |    |    |
-|**Desenvolvimento - Estudo dos sensores**                  |   |   |   | X | X |   |    |    |    |
-|**Desenvolvimento - END POINT**                            |   |   |   | X | X | X | X  |    |    |
+|**Concepção da ideia e estudo de material prévio**        | X | X |   |   |   |   |    |    |    | 
+|**Definição dos requisitos funcionais e não funcionais**  |   | X |   |   |   |   |    |    |    | 
+|**Detalhamento - Especificações**                         |   | X | X |   |   |   |    |    |    |
+|**Detalhamento - Arquitetura do Hardware**                |   |   | X |   |   |   |    |    |    |
+|**Detalhamento - Diagrama de classes**                    |   |   |   | X |   |   |    |    |    |
+|**Desenvolvimento - Estudo dos sensores**                 |   |   |   | X | X |   |    |    |    |
+|**Desenvolvimento - END POINT**                           |   |   |   | X | X | X | X  |    |    |
 |**Desenvolvimento - Ajustes na placa com potenciometro para funcionar em níveis aautomatizados**   |   |   |   | X | X |   |    |    |    |
 |**Desenvolvimento - Estudo dos transmissores**             |   |   |   |   | X | X |    |    |    |
 |**Desenvolvimento - Detalhamento do pacote de dados**      |   |   |   |   |   | X |    |    |    |
