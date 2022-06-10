@@ -44,7 +44,7 @@ Entrega prevista do sistema com melhorias:
 - Alertas de atuação do sistema de acordo com criticidade. 
 - Melhoria no layout hardware
 
-### Cronograma Resumido 
+### Cronograma  
 
 | Etapa | **15/08 (11)** | **22/08 (12)** | **29/08 (13)** | **05/09 (14)** | **12/09 (15)** | **19/09 (16)** | 
 |:---------------------------------------------:|:--:|:-:|:-:|:-:|:-:|:-:|
