@@ -1,6 +1,6 @@
 ## Cronograma Ciclo 1 - 13/06 até 08/08 (10 semanas)
 
-Entrega prevista de umm MPV contendo:
+Entrega prevista de um MPV contendo:
 - Arduino integrado aos 3 sensores (Temperatura, Umidade do ar e Nível de CO²;
 - Ciclo de transmissão (Endpoint-Servidor) operando;
 - Plotagem simples das leituras (atuais). 
